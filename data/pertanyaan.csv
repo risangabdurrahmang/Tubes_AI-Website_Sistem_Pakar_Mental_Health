@@ -1,0 +1,6 @@
+Nama,Apakah anda berkeringat ?,Apakah anda meras berdebar ?,Apakah anda tersedak ?,Apakah anda merasa nyeri dada ?,Apakah anda merasa seperti serangan jantung ?,Apakah anda merasa ketakutan ?,Apakah anda merasa gemetar ?,Apakah anda merasa lesu ?,Apakah anda merasa sesak dada ?,Apakah anda cemas ?,Apakah anda merasa putus asa ?,Apakah emosional anda tidak stabil ?,Apakah anda merasa pusing ?,Apakah anda merasa menurun selera makan ?,Apakah anda mudah terganggu ?,Apakah anda berbicara sangat cepat ?,Apakah keinginan tidur anda menurun ?,Apakah anda merasa percaya diri berlebihan ?,Apakah anda merasa sangat gelisah ?,Apakah anda mudah marah ?,Apakah anda suka berhalusinasi ?,Apakah anda enggan bersosialisasi ?,Apakah anda sulit untuk merasa senang atau puas ?,Apakah anda sulit berkonsentrasi ?
+Gangguan Kecemasan,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Depresi,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Bipolar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+Skizofrenia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1
+Sehat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
