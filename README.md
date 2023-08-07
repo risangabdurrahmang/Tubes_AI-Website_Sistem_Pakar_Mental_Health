@@ -1,0 +1,1 @@
+Website sistem pakar untuk deteksi dini penyakit mental melalui 3 cara yaitu dengan menjawab pertanyaan yang sudah sediakan, bercerita mengenai kondisi yang dirasakan serta kombinasi antara keduanya pada cara ketiga
